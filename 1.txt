@@ -1,0 +1,74 @@
+	
+			<div id="main">
+			
+				<ul class="gallery">
+				
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>
+
+					<li>
+						<h3>consequat pharetra</h3>
+						<a href="images/pic02full.jpg"><img class="top" src="images/pic02.jpg" width="260" height="200" title="This is photo 1" alt="" /></a>
+						<p>
+							Nisl mus a euismod varius aenean massa. Suspendisse vivamus natoque cubilia volutpat praesent euismod primis. Amet mus convallis posuere morbi eleifend.
+						</p>
+					</li>					
+					
+				</ul>
+
+				<br class="clear" />
+				
+			</div>

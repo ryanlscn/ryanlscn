@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+	Folio by FWT
+	www.freewebsitetemplat.es
+	Photos by Fotogrph http://fotogrph.com/
+	Released under the Creative Commons Attribution 3.0 License.
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<title>Ryan.Li</title>
+		<link href="http://fonts.googleapis.com/css?family=Antic" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		
+		<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.dropotron-1.0.js"></script>	
+		<script type="text/javascript" src="js/jquery.slidertron-1.0.js"></script>
+		<script type="text/javascript" src="js/jquery.poptrox-1.0.js"></script>
+		
+	</head>
+	<body>
+		<div id="outer">
+		
+			<div id="logo">
+				<h1><a href="index.html">Home</a></h1>
+			</div>
+		
+				
+			<ul id="nav">
+				<li class="first active">
+					<a href="index.html">Home</a>
+				</li>
+				<li>
+						
+					<a href="#">Gallery</a>
+							
+					<ul>
+						<li>
+							<a href="#">My work</a>
+							<ul>
+								<li><a href="gif.html">Gif</a></li>
+								<li><a href="SFAI.html">SFAI</a></li>
+								
+							</ul>
+								
+						</li>
+					
+					</ul>
+								
+				</li>
+			
+			</ul>
+
+
+		<!-- ****************************************************************************************************************** -->
+
+			<div id="slider">
+				<div class="viewer">
+					<ul class="reel">
+						<li class="slide">
+							
+						
+							
+							<img src="images/1.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+						
+							
+							
+							<img src="images/2.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+							
+							
+						
+							<img src="images/3.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+						
+						
+							
+							<img src="images/4.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+							
+						
+							
+							<img src="images/5.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+						
+							
+							<img src="images/6.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+							
+							
+						
+							<img src="images/7.jpg" width="720" height="360" alt="" />
+						</li>
+						<li class="slide">
+							
+							
+							
+							<img src="images/8.JPG" width="720" height="360" alt="" />
+						</li>
+					</ul>
+				</div>
+				
+				<ul class="indicator">
+					<li class="active">1</li>
+					<li>2</li>
+					<li>3</li>
+					<li>4</li>
+					<li>5</li>
+					<li>6</li>
+					<li>7</li>
+					<li>8</li>
+				</ul>
+				
+			</div>
+			
+			<script type="text/javascript">
+				$('#slider').slidertron({
+					viewerSelector: '.viewer',
+					reelSelector: '.viewer .reel',
+					slidesSelector: '.viewer .reel .slide',
+					advanceDelay: 3000,
+					speed: 'slow',
+					navPreviousSelector: '.previous-button',
+					navNextSelector: '.next-button',
+					indicatorSelector: '.indicator li',
+					slideLinkSelector: '.link'
+				});
+			</script>
+
+		<!-- ****************************************************************************************************************** -->			
+
+				
+				
+
+			
+		
+		</div>
+		<div id="copyright">
+			Folio by <a href="http://www.freewebtemplates.com">FWT</a>. Photos by <a href="http://fotogrph.com/">Fotogrph</a>.
+		</div>
+		
+		<script type="text/javascript">
+			$('#nav').dropotron();
+		</script>	
+		
+			<script type="text/javascript">
+				$('.gallery').poptrox({
+					overlayColor: '#222222',
+					overlayOpacity: 0.75,
+					popupCloserText: 'Close',
+					usePopupCaption: true,
+					usePopupDefaultStyling: false
+				});
+			</script>
+			
+	</body>
+</html>
